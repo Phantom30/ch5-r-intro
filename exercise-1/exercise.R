@@ -7,7 +7,7 @@ hometown <- "Taiwan"
 my_name <- "Brian"
 
 # Assign your height (in inches) to a variable `my_height`
-height <- 6
+height <- 70
 
 # Create a variable `puppies` equal to the number of puppies you'd like to have
 puppies <- 2
